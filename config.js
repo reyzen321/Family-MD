@@ -47,7 +47,7 @@ global.urlnya = "https://www.instagram.com/aguzfamilia"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.phn = '+62 8831-4837-5193'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
